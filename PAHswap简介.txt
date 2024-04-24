@@ -1,0 +1,26 @@
+PAHswap简介以及声明
+Introduction and Statement of PAHswap（PAHswap-DEX for opBNB）
+PAHswap是opBNB区块链上的一个去中心化交易所。
+PAHswap is a decentralized exchange on the opBNB blockchain（PAHswap-DEX for opBNB）.
+PAHswap的网址：https://blc-1318031939.cos-website.ap-singapore.myqcloud.com/#/swap
+PAHswap website:https://blc-1318031939.cos-website.ap-singapore.myqcloud.com/#/swap
+or https://blc-opbnb-1318031939.cos-website.ap-singapore.myqcloud.com/#/swap
+PAHswap Factory：0xc6736E04DD0b3DB3D9b4eB936eFABA4D86Fe7c0E
+PAHswap Router：0x4ADe587696AD48f96baa8644269554814E523858
+PAHswap采用EAH作为平台管理通证。
+PAHswap uses EAH as the platform management token.
+EAH通证总量为2,100,000,000,000。
+The total number of EAH tokens is 2,100,000,000,000.
+EAH通证地址为0xE5Cd74c4EfEd18ebd461A7AF63b6D0Ca6ee7B3bF
+The EAH token address is 0xE5Cd74c4EfEd18ebd461A7AF63b6D0Ca6ee7B3bF
+代码基于Uniwap V2开发。
+The code is developed based on Uniswap V2.
+目前的功能只有交易和流动性池。
+The current functions only include trading and liquidity pooling.
+您可以自由建立流动性池、添加或者移除流动性。
+You can freely establish a liquidity pool, add or remove liquidity.
+优点是简介、高效、快速进行opBNB代币的交易，交易所不收取任何费用。免费友好。
+The advantage is that the trading of opBNB tokens is concise, efficient, and fast, and the exchange does not charge any fees. Free and friendly.
+交易范围仅限于法律和政策允许的国家和地区，其他地区的用户请勿使用。
+The transaction scope is limited to countries and regions permitted by laws and policies. Users from other regions are not allowed to use it.
+
